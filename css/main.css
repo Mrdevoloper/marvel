@@ -42,4 +42,11 @@
       -ms-flex-pack: center;
           justify-content: center;
 }
+
+#wrapper-item1 {
+  width: 900px;
+  height: 3000px;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
 /*# sourceMappingURL=main.css.map */
